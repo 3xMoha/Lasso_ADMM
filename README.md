@@ -24,7 +24,7 @@ To run the code in this repository you can set up an environment using either `p
 
 1. **Create an environment with the packages**
    ```bash
-   conda env create -f environment.yaml
+   conda env create -f conda_lasso_env.yaml
    ```
 2. **Activate the environment**:
   ```bash
