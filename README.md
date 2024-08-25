@@ -13,9 +13,9 @@ To run the code in this repository you can set up an environment using either `p
    python -m venv myenv
    ```
 2. **Activate the environment**:
-  ```bash
-  source myenv/bin/activate
-  ```
+   ```bash
+   source myenv/bin/activate
+   ```
 3. **Install the packages**:
    ```bash
    pip install -r requirements.txt
@@ -27,9 +27,9 @@ To run the code in this repository you can set up an environment using either `p
    conda env create -f conda_lasso_env.yaml
    ```
 2. **Activate the environment**:
-  ```bash
-  conda activate lasso_env
-  ```
+   ```bash
+   conda activate lasso_env
+   ```
 
 ## Execution
 
