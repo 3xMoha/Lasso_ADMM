@@ -1,0 +1,7 @@
+name: lasso_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10.13
+  - numpy
+  - scikit-learn
